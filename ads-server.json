@@ -2,18 +2,18 @@
   "ads": [
     {
       "position": "top",
-      "link": "https://iklan-atas.com",
-      "image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/iklan_atas.jpg"
+      "image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/iklan_atas.webp",
+      "link": "https://example.com/iklan-atas"
     },
     {
       "position": "mid",
-      "link": "https://iklan-tengah.com",
-      "image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/iklan_tengah.jpg"
+      "image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/iklan_tengah.webp",
+      "link": "https://example.com/iklan-tengah"
     },
     {
       "position": "bottom",
-      "link": "https://iklan-bawah.com",
-      "image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/iklan_bawah.jpg"
+      "image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/iklan_bawah.webp",
+      "link": "https://example.com/iklan-bawah"
     }
   ]
 }
