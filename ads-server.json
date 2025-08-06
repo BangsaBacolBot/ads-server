@@ -2,18 +2,18 @@
   "ads": [
     {
       "position": "top",
-      "image": "https://iklan-cdn.net/iklan_atas.webp",
-      "link": "https://pengiklan.com/top"
+      "link": "https://iklan-puncak.com",
+      "image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/iklan_atas.jpg"
     },
     {
       "position": "mid",
-      "image": "https://iklan-cdn.net/iklan_tengah.webp",
-      "link": "https://pengiklan.com/mid"
+      "link": "https://iklan-tengah.com",
+      "image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/iklan_tengah.jpg"
     },
     {
       "position": "bottom",
-      "image": "https://iklan-cdn.net/iklan_bawah.webp",
-      "link": "https://pengiklan.com/bottom"
+      "link": "https://iklan-bawah.com",
+      "image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/iklan_bawah.jpg"
     }
   ]
 }
