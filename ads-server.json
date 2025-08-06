@@ -1,0 +1,19 @@
+{
+  "ads": [
+    {
+      "position": "top",
+      "image": "https://iklan-cdn.net/iklan_atas.webp",
+      "link": "https://pengiklan.com/top"
+    },
+    {
+      "position": "mid",
+      "image": "https://iklan-cdn.net/iklan_tengah.webp",
+      "link": "https://pengiklan.com/mid"
+    },
+    {
+      "position": "bottom",
+      "image": "https://iklan-cdn.net/iklan_bawah.webp",
+      "link": "https://pengiklan.com/bottom"
+    }
+  ]
+}
