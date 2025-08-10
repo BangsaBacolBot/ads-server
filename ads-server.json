@@ -3,17 +3,17 @@
     {
       "position": "top",
       "image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/iklan_atas.webp",
-      "link": "https://example.com/iklan-atas"
+      "link": "https://t.me/LoliCwans"
     },
     {
       "position": "mid",
       "image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/iklan_tengah.webp",
-      "link": "https://example.com/iklan-tengah"
+      "link": "https://t.me/LoliCwans"
     },
     {
       "position": "bottom",
       "image": "https://raw.githubusercontent.com/BangsaBacolBot/ads-server/main/iklan_bawah.webp",
-      "link": "https://example.com/iklan-bawah"
+      "link": "https://t.me/LoliCwans"
     }
   ]
 }
